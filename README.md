@@ -1,5 +1,5 @@
-# Project-Ideas
-A curated list of awesome civic tech project ideas
+# Civic Tech Project Ideas
+A curated list of awesome civic tech project ideas.
 
 ## A web page for problem statement collection
 A web page that has a form for problem statement collection. Problems can be submitted by government employees or citizens.
